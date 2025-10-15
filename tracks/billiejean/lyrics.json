@@ -1,0 +1,43 @@
+[
+    [
+        {
+            "text": "...",
+            "hold": 29,
+            "duration": 2.7
+        }
+    ],
+    [
+        {
+            "text": "She was more like",
+            "hold": 1.5,
+            "duration": 1.2
+        },
+        {
+            "text": " a beauty queen",
+            "hold": 1,
+            "duration": 0.7
+        },
+        {
+            "text": " from a movie I seen",
+            "hold": 1.40,
+            "duration": 1
+        }
+    ],
+    [
+        {
+            "text": "I said don't mind but",
+            "hold": 1.25,
+            "duration": 1
+        },
+        {
+            "text": " do you mean",
+            "hold": 1.25,
+            "duration": 1
+        },
+        {
+            "text": " I am the one",
+            "hold": 3,
+            "duration": 2
+        }
+    ]
+]

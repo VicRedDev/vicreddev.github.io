@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: #13151a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+main {
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+p {
+    transition: 1s ease-in-out color;
+    font-size: 4em;
+}
+
+.transparentText{
+    color: #13151a;
+}
+
+.play-button {
+    border-left: 40px solid red;
+    border-top: 30px solid transparent;
+    border-bottom: 30px solid transparent;
+    height: 0px;
+    width: 0px;
+    background-color: transparent;
+}
+
+.list-song {
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.list-song-title {
+    margin-bottom: 40px;
+}
+
+.list-song-duration {
+    justify-self: flex-end;
+}
+
+.hidden{
+    display: none !important;
+}
